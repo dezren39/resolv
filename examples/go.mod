@@ -7,7 +7,7 @@ require (
 	github.com/hajimehoshi/ebiten/v2 v2.5.4
 	github.com/solarlune/resolv v0.5.1
 	github.com/tanema/gween v0.0.0-20221212145351-621cc8a459d1
-	golang.org/x/image v0.7.0
+	golang.org/x/image v0.18.0
 )
 
 replace github.com/solarlune/resolv => ../
